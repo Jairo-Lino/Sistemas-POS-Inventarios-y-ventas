@@ -29,9 +29,13 @@ session_start();
     <!-- Google Font -->
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+    <!-- DataTables -->
+    <link rel="stylesheet" href="vistas/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css">
+    <link rel="stylesheet" href="vistas/bower_components/datatables.net-bs/css/responsive.bootstrap.min.css">
+
 
     <!--=============================================
-        PLUGINS DE JS
+        PLUGINS DE JAVASCRIP
     =============================================-->
     <!-- jQuery 3 -->
     <script src="vistas/bower_components/jquery/dist/jquery.min.js"></script>
@@ -41,6 +45,11 @@ session_start();
     <script src="vistas/bower_components/fastclick/lib/fastclick.js"></script>
     <!-- AdminLTE App -->
     <script src="vistas/dist/js/adminlte.min.js"></script>
+    <!-- DataTables -->
+    <script src="vistas/bower_components/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="vistas/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+    <script src="vistas/bower_components/datatables.net-bs/js/dataTables.responsive.min.js"></script>
+    <script src="vistas/bower_components/datatables.net-bs/js/responsive.bootstrap.min.js"></script>
 </head>
 
 <!--CUERPO DE DOCUMENTO-->

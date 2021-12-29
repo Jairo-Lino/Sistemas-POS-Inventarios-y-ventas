@@ -106,6 +106,7 @@ session_start();
     ?>
 
     <script src="vistas/js/plantilla.js"></script>
+    <script src="vistas/js/usuario.js"></script>
 </body>
 
 </html>
